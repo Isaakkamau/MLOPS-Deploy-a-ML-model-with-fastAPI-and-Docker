@@ -261,7 +261,7 @@ Every request should contain the data that represents a wine in `JSON` format li
 
 This example represents a class 1 wine.
 
-Remember from Course 1 that FastAPI has a built-in client for you to interact with the server. You can use it by visiting [localhost:80/docs](http://localhost:80/docs)
+Remember that FastAPI has a built-in client for you to interact with the server. You can use it by visiting [localhost:80/docs](http://localhost:80/docs)
 
 You can also use `curl` and send the data directly with the request like this:
 
