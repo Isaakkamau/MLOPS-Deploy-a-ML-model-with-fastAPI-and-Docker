@@ -302,9 +302,9 @@ Let's understand the flags used:
 There is a directory called `wine-examples` that includes three files, one for each class of wine. Use those to try out the server and also pass in some random values to see what you get!
 
 ----
-**Congratulations on finishing part 1 of this lab!**
+**End of Part 1**
 
-During this lab you have seen how to code a webserver using FastAPI and how to Dockerize it, how `Dockerfiles`, `images` and `containers` are related to each other and how to use `curl` to make `POST` requests to get predictions from servers.
+During this prroject we have seen how to code a webserver using FastAPI and how to Dockerize it, how `Dockerfiles`, `images` and `containers` are related to each other and how to use `curl` to make `POST` requests to get predictions from servers.
 
 In the next part we will modify the server to accept batches of data instead of a single data point per request.
 
