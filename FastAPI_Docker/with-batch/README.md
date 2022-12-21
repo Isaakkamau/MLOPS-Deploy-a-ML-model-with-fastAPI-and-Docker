@@ -116,12 +116,7 @@ To step to servers and the containers they are running in, simply use the key co
 
 Alternatively you can use the `docker ps` command to check the name of the running containers and use the `docker stop name_of_container` command to stop them. Remember that you used the `--rm` flag so once you stop these containers they will also be deleted.
 
-**Do not delete the images you created since they will be used in an upcoming lab!**
+**Do not delete the images you created since I have used them in the next project I will be posting soon**
 
 -----
 
-**Congratulations on finishing this lab!**
-
-Now you should have a better understanding of how web servers can be used to host your machine learning models. You saw how you can use a library such as FastAPI to code the server and use Docker to ship your server along with your model in an easy manner. You also learned about some key concepts of Docker such as `image tagging` and `port mapping` and how  to allow for batching in the requests. In general you should have a clearer idea of how all these technologies interact to host models in production.
-
-**Keep it up!**
